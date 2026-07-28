@@ -1,5 +1,7 @@
 # Hi, I'm Chaithanya Anugu
 
+**Ask my GitHub a question:** I built a small chatbot that only answers questions about this profile and the projects below (retrieval-restricted, local models, no API key). Code: [ask-my-github](https://github.com/chaithanya-15/ask-my-github).
+
 AI/ML Engineer and Data Scientist based in Paris. I build RAG pipelines, recommender systems, and applied ML projects, and I care about honest evaluation as much as good metrics.
 
 ## What I work with
